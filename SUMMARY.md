@@ -7,9 +7,9 @@
 * [Liquid Staking 101](aleo-staking/liquid-staking-101.md)
 * [stCredits - Staked Credits](aleo-staking/stcredits.md)
 * [Stake and Unstake](aleo-staking/stake-unstake.md)
-* [Fee](aleo-staking/fee.md)
-* [Programs](aleo-staking/programs.md)
-* [Operator](aleo-staking/operator.md)
+* [Protocol Fee](aleo-staking/fee.md)
+* [AleoStaking Programs](aleo-staking/programs.md)
+* [AleoStaking Operator](aleo-staking/operator.md)
 * [FAQ](aleo-staking/faq.md)
 
 ## AleoLending
