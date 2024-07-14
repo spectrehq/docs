@@ -10,7 +10,7 @@
 * [Protocol Fee](aleo-staking/fee.md)
 * [AleoStaking Programs](aleo-staking/programs.md)
 * [AleoStaking Operator](aleo-staking/operator.md)
-* [FAQ](aleo-staking/faq.md)
+* [Frequently Asked Questions](aleo-staking/faq.md)
 
 ## AleoLending
 
