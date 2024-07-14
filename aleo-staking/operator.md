@@ -1,1 +1,1 @@
-An `operator` is an EOA (externally owned account) whose private key is accessible to an internet-connected server.
+The **Operator** daemon service is responsible for signing operating transactions on behalf of the AleoStaking protocol. The signing account has the `STAKING_OPERATOR_ROLE` role in our access control program. Its private key will come from the `STAKING_OPERATOR_PRIVATE_KEY` environment variable.

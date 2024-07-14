@@ -18,5 +18,5 @@
 
 * [About Spectre](spectre/about-spectre.md)
 * [Tokenomics](spectre/tokenomics.md)
-* [Points Incentive Plan](spectre/points.md)
+* [Points Incentive Campaigns](spectre/points.md)
 * [Governance](spectre/governance.md)
