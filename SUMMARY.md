@@ -8,8 +8,11 @@
 * [stCredits - Staked Credits](aleo-staking/stcredits.md)
 * [Stake and Unstake](aleo-staking/stake-unstake.md)
 * [Protocol Fee](aleo-staking/fee.md)
-* [AleoStaking Programs](aleo-staking/programs.md)
-* [AleoStaking Operator](aleo-staking/operator.md)
+* [Programs](aleo-staking/programs/README.md)
+  * [stCredits](aleo-staking/programs/stcredits.md)
+  * [delegator](aleo-staking/programs/delegator.md)
+  * [stCredits_points](aleo-staking/programs/stcredits_points.md)
+* [Operator Service](aleo-staking/operator.md)
 * [Frequently Asked Questions](aleo-staking/faq.md)
 
 ## AleoLending
@@ -20,3 +23,6 @@
 * [Tokenomics](spectre/tokenomics.md)
 * [Points Incentive Campaigns](spectre/points.md)
 * [Governance](spectre/governance.md)
+* [Programs](spectre/programs/README.md)
+  * [access_control](spectre/programs/access_control.md)
+  * [acl_manager](spectre/programs/acl_manager.md)
