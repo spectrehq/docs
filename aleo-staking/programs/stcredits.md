@@ -332,7 +332,7 @@ async transition initialize() -> Future;
 
 Can only be called by the delegator program's `register` transition, to register itself as one delegator for a validator.
 The signer must be the admin.
-Due to the design of the Aleo native staking mechanism, one delegator can only delegate to one validator at a time. So we need to deploy [multiple delegator programs](delegator.md), each of which is responsible for one validator.
+Due to the design of the Aleo native staking mechanism, one delegator can only delegate to one validator at any time. So we need to deploy [multiple delegator programs](delegator.md), each of which is responsible for one validator.
 
 ```Leo
 async transition register_delegator(public delegator: address, public validator: address) -> Future;
