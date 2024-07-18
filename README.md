@@ -25,4 +25,4 @@ AleoStaking lets users operate with staked Credits by leveraging collateral, len
 
 ## AleoLending
 
-> TODO
+> Coming soon
